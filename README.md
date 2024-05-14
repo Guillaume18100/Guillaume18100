@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Guillaume DERAMCHI
-- 👀 I’m interested in combat sports, especially boxing, and coding, whatever's the language, as long as it's not Assembly
-- 🌱 I’m currently learning C at ALGOSUP
+- 👋 Hi, I’m Guillaume DERAMCHI
+- 👀 I’m passionate about coding and combat sports, especially boxing.
+- 🌱 Currently learning programming at Algosup and developing a recruitment app called 'Adopte Un Candidat' using Flutter.
+- 📚 High school specialization in English and Social and Economic Sciences.
 - 📫 How to reach me: guillaume.deramchi@algosup.com
 
 
