@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Guillaume DERAMCHI
 - 👀 I’m passionate about coding and combat sports, especially boxing.
 - 🌱 Currently learning programming at Algosup and developing wonderful projects in various programming languages.
-- 📚 High school specialization in English and Social and Economic Sciences.
-- 📫 How to reach me: guillaume.deramchi@algosup.com
+- 📫 How to reach me: gderamchi@gmail.com
 
 
 <!---
